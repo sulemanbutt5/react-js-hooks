@@ -14,3 +14,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.ulpost{
+  list-style: none;
+  text-align: left;
+  align-items: left;
+  place-items: left;
+}
